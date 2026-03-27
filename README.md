@@ -7,7 +7,7 @@ W3_D14_PM_TakeHome
 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/avishkajindal05/DAY-14-PM.git
 cd DAY-14-PM
 ```
 
